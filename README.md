@@ -14,7 +14,7 @@ is different from the original style.. so keep that in mind.
 
 #### Team
 
-- [Gazzar](https://github.com/fathyElgazzar)
+- [Gazzar](https://github.com/gazzaar)
 - [Manga](https://www.facebook.com/abdullah.mohamad.509?mibextid=JRoKGi)
 - [Faisal](https://www.facebook.com/faisal.khattabii?mibextid=ZbWKwL)
 - [Amr](https://www.facebook.com/amr.walidfekry?mibextid=ZbWKwL)
